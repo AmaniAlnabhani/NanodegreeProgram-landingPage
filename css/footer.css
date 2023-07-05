@@ -1,0 +1,40 @@
+footer{
+  grid-area: footer;
+  background-color: rgb(211, 211, 211);
+  height: 30vh; 
+  width: 100%;
+  display: block;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+
+  color: rgb(0, 0, 0);
+  text-align: center;
+
+}
+h2{
+  padding-top: 30px;
+  font-weight: 100px;
+}
+
+
+.about-footer{
+
+  position: relative;
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  align-items: flex-end;
+  flex-wrap: wrap;
+  font-size: 15px;
+
+
+}
+.icon{
+  padding-top: 20px;
+  width: 50px;
+  height: 50px;
+}
+
+
+
